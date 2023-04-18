@@ -12,8 +12,7 @@
       'fetch',
       'Headers',
       'Request',
-      'Response',
-      'AbortController'
+      'Response'
     ];
     var combinedProps = supportProps;
     if (preferNative) {
